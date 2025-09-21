@@ -1,2 +1,2 @@
 # .github
-Where fintech meets precision.  DaylightTrade builds modern tools for traders, investors, and crypto enthusiasts.
+Where finance meets clarity.  DaylightTrade builds modern tools for traders and investors who move with confidence.
